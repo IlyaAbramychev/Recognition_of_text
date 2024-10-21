@@ -19,4 +19,8 @@
 - Выводы о применимости нейросетевых методов в OCR.
 
 ## **Структура проекта**
-├── Benchmark.ipynb # Jupyter ноутбук бенчмарком ├── analysis_image.ipynb # Jupyter ноутбук с анализом  ├── test.png # Тестовое изображение ├── test2.png # Тестовое изображение └── README.md # Описание проекта
+├── Benchmark.ipynb # Jupyter ноутбук бенчмарком 
+├── analysis_image.ipynb # Jupyter ноутбук с анализом 
+├── test.png # Тестовое изображение 
+├── test2.png # Тестовое изображение 
+└── README.md # Описание проекта
